@@ -10,7 +10,7 @@
 
 # 공식 계정 틱톡 프로필 링크
 
-https://www.tiktok.com/@lab0651?_r=1&_t=ZS-940yID8QuJB
+https://www.tiktok.com/@jp.life.lab
 
 # 공식 프로필 이미지
 
