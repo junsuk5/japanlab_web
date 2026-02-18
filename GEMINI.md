@@ -14,7 +14,7 @@ https://www.tiktok.com/@lab0651?_r=1&_t=ZS-940yID8QuJB
 
 # 공식 프로필 이미지
 
-assets/profile.png
+assets/profile.webp
 
 
 ## 개발된 앱
